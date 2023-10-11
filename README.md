@@ -1,5 +1,5 @@
 # BugSamples
-Below are some Bug Samples that i found during my previous project
+Below are some Bug Samples that i found during my previous project.
 
 
 ------------------------------
