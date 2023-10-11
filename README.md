@@ -4,13 +4,13 @@ Below are some Bug Samples that i found during my previous project.
 
 ------------------------------
 
-**Priority and severity:**
+**Priority and Severity:**
 P2 - Normal
 
 **Description:** 
 When trying to access "Photo Wall" category from the web page, the first image is broken.
 
-**Steps to reproduce:**
+**Steps to Reproduce:**
 1. Go to https://juice-shop.herokuapp.com/#/photo-wall
 
 **Expected Results:**
@@ -22,7 +22,7 @@ When accessing "Photo Wall" category from the page, the first image is broken.
 
 ------------------------------
 
-**Priority and severity:**
+**Priority and Severity:**
 P3 - Normal
 
 **Description:**
@@ -32,7 +32,7 @@ When trying to access the web page it takes to much time to load up.
 1. Ensure a stable internet connection
 2. Clear the browser cache to eliminate caching-related issues
 
-**Steps to reproduce:**
+**Steps to Reproduce:**
 1. Go to https://juice-shop.herokuapp.com/#/
 2. Use browser developer tool to measure the time it takes for the web page to fully load
 3. Compare the actual load time against a predefined benchmark or acceptable threshold.
@@ -45,13 +45,13 @@ When accessing the web page it takes to much time to fully load.
 
 
 ------------------------------
-**Priority and severity:**
+**Priority and Severity:**
 P2 - High
 
 **Description:**
 When trying to open "Chief arhitect" form, it shows a 404 error.
 
-**Steps to reproduse:**
+**Steps to Reproduse:**
 1. Go to https://www.primariatechirghiol.ro/formulare/
 2. Press Chief Architect link
 
