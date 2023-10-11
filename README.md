@@ -4,10 +4,10 @@ Below are some Bug Samples that i found during my previous project
 
 ------------------------------
 
-**Priority and severity**
+**Priority and severity:**
 P2 - Normal
 
-**Description** 
+**Description:** 
 When trying to access "Photo Wall" category from the web page, the first image is broken.
 
 **Steps to reproduce:**
