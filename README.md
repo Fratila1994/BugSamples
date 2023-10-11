@@ -42,3 +42,21 @@ The web page should load within an acceptable timeframe, meeting the predefined 
 
 **Actual Results:**
 When accessing the web page it takes to much time to fully load.
+
+
+------------------------------
+**Priority and severity:**
+P2 - High
+
+**Description:**
+When trying to open "Chief arhitect" form, it shows a 404 error.
+
+**Steps to reproduse:**
+1. Go to https://www.primariatechirghiol.ro/formulare/
+2. Press Chief Architect link
+
+**Expected Results:**
+User should be able to access all the information from the website.
+
+**Actual Results:**
+"Chief arhitect" form leads to 404 error.
